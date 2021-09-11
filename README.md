@@ -15,5 +15,7 @@ Note: To be able to use the code, you MUST use one of Java IDEs that can compile
 
 ## Project Screenshot
 
+![Project Screenshot](https://github.com/yossef-elmahdy/Battle-Of-Helicopters/blob/master/Screenshot_video/Battle_of_Helicpoter.png)
+
 
 ## Project Video & Demonstration (Pitching)
