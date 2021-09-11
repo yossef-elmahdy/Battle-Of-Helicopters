@@ -19,3 +19,4 @@ Note: To be able to use the code, you MUST use one of Java IDEs that can compile
 
 
 ## Project Video & Demonstration (Pitching)
+You can download and see the video of the project from [here](https://github.com/yossef-elmahdy/Battle-Of-Helicopters/blob/master/Screenshot_video/Project_Video.mp4)
